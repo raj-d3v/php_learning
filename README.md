@@ -4,7 +4,7 @@ This repository contains all my PHP learning practice files.
 
 ## 📁 Folder Structure
 
-- basic/
+- Basic/
   - variables.php
   - data_types.php
   - if_else.php
@@ -12,7 +12,7 @@ This repository contains all my PHP learning practice files.
   - string_functions.php
   - arithmetic_operators.php
 
-- intermediate/
+- Advance/
   - functions.php
   - arrays.php
   - associative_arrays.php
