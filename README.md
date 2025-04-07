@@ -25,7 +25,8 @@ This repository contains all my PHP learning practice files.
   - password_hashing.php
 
 - registration_project/
-  - (files related to registration mini project)
+  - index.php
+  - database.php
 
 ## 🧠 Topics Covered
 
